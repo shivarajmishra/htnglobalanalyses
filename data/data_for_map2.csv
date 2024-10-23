@@ -1,0 +1,205 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower,Country Name,Code
+5,Prevalence,298,American Samoa,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.117679053,0.135664085,0.103521496,American Samoa,ASM
+5,Prevalence,105,Antigua and Barbuda,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.154988204,0.1743993,0.135935543,Antigua and Barbuda,ATG
+5,Prevalence,141,Arab Republic of Egypt,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.160745235,0.183689077,0.141533402,Arab Republic of Egypt,EGY
+5,Prevalence,97,Argentine Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.155424136,0.177289316,0.136756878,Argentine Republic,ARG
+5,Prevalence,71,Australia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.204800741,0.227810867,0.184666833,Australia,AUS
+5,Prevalence,107,Barbados,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.159913579,0.183265417,0.142124764,Barbados,BRB
+5,Prevalence,108,Belize,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.156107189,0.17577517,0.137184459,Belize,BLZ
+5,Prevalence,305,Bermuda,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.160518818,0.181485908,0.142699726,Bermuda,BMU
+5,Prevalence,133,Bolivarian Republic of Venezuela,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.145508448,0.165065219,0.128303325,Bolivarian Republic of Venezuela,VEN
+5,Prevalence,44,Bosnia and Herzegovina,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.131930112,0.148090447,0.116831409,Bosnia and Herzegovina,BIH
+5,Prevalence,66,Brunei Darussalam,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.117163653,0.13147896,0.104707966,Brunei Darussalam,BRN
+5,Prevalence,201,Burkina Faso,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.121552732,0.137744806,0.107163392,Burkina Faso,BFA
+5,Prevalence,101,Canada,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.165926927,0.186123512,0.148417889,Canada,CAN
+5,Prevalence,169,Central African Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.148906998,0.170816412,0.131433144,Central African Republic,CAF
+5,Prevalence,110,Commonwealth of Dominica,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.15730352,0.176226258,0.138583001,Commonwealth of Dominica,DMA
+5,Prevalence,106,Commonwealth of the Bahamas,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.157356274,0.179992401,0.139764613,Commonwealth of the Bahamas,BHS
+5,Prevalence,320,Cook Islands,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.123964551,0.140357767,0.110642208,Cook Islands,COK
+5,Prevalence,47,Czech Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.129223988,0.14559846,0.113883586,Czech Republic,CZE
+5,Prevalence,7,Democratic People's Republic of Korea,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.120006855,0.135680822,0.106851391,Democratic People's Republic of Korea,PRK
+5,Prevalence,215,Democratic Republic of Sao Tome and Principe,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.116064084,0.130266506,0.103408985,Democratic Republic of Sao Tome and Principe,STP
+5,Prevalence,171,Democratic Republic of the Congo,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.142769941,0.162279225,0.126743375,Democratic Republic of the Congo,COD
+5,Prevalence,19,Democratic Republic of Timor-Leste,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.118273456,0.134049724,0.104426074,Democratic Republic of Timor-Leste,TLS
+5,Prevalence,17,Democratic Socialist Republic of Sri Lanka,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.125176307,0.142560391,0.110735311,Democratic Socialist Republic of Sri Lanka,LKA
+5,Prevalence,111,Dominican Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.160935816,0.182622293,0.142153621,Dominican Republic,DOM
+5,Prevalence,99,Eastern Republic of Uruguay,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.165056014,0.188572951,0.144150037,Eastern Republic of Uruguay,URY
+5,Prevalence,179,Federal Democratic Republic of Ethiopia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.136404339,0.149028368,0.125539051,Federal Democratic Republic of Ethiopia,ETH
+5,Prevalence,164,Federal Democratic Republic of Nepal,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.154056495,0.174640754,0.135213617,Federal Democratic Republic of Nepal,NPL
+5,Prevalence,81,Federal Republic of Germany,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.175344555,0.202739229,0.151996128,Federal Republic of Germany,DEU
+5,Prevalence,214,Federal Republic of Nigeria,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.112345072,0.12030184,0.104885551,Federal Republic of Nigeria,NGA
+5,Prevalence,187,Federal Republic of Somalia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.15018863,0.171834606,0.132189451,Federal Republic of Somalia,SOM
+5,Prevalence,25,Federated States of Micronesia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.120526744,0.136656627,0.105544613,Federated States of Micronesia,FSM
+5,Prevalence,135,Federative Republic of Brazil,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.190439848,0.206559948,0.175980976,Federative Republic of Brazil,BRA
+5,Prevalence,80,French Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.1913487,0.220994668,0.167697014,French Republic,FRA
+5,Prevalence,173,Gabonese Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.147882508,0.168722029,0.129912298,Gabonese Republic,GAB
+5,Prevalence,35,Georgia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.124582114,0.139947211,0.111814238,Georgia,GEO
+5,Prevalence,87,Grand Duchy of Luxembourg,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.168363035,0.192333613,0.149115996,Grand Duchy of Luxembourg,LUX
+5,Prevalence,349,Greenland,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.206737256,0.233564853,0.182645446,Greenland,GRL
+5,Prevalence,112,Grenada,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.157468729,0.178670101,0.137558978,Grenada,GRD
+5,Prevalence,351,Guam,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.127172699,0.145569801,0.112850977,Guam,GUM
+5,Prevalence,144,Hashemite Kingdom of Jordan,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.162481773,0.183118115,0.14173834,Hashemite Kingdom of Jordan,JOR
+5,Prevalence,82,Hellenic Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.198538267,0.227528153,0.172992059,Hellenic Republic,GRC
+5,Prevalence,48,Hungary,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.129781137,0.147025644,0.115002968,Hungary,HUN
+5,Prevalence,26,Independent State of Papua New Guinea,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.118715809,0.134493687,0.104615996,Independent State of Papua New Guinea,PNG
+5,Prevalence,27,Independent State of Samoa,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.12000695,0.136267355,0.105954147,Independent State of Samoa,WSM
+5,Prevalence,84,Ireland,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.198869829,0.228128189,0.173214001,Ireland,IRL
+5,Prevalence,160,Islamic Republic of Afghanistan,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.183623147,0.211722599,0.158778856,Islamic Republic of Afghanistan,AFG
+5,Prevalence,142,Islamic Republic of Iran,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.207146582,0.223842758,0.190704777,Islamic Republic of Iran,IRN
+5,Prevalence,212,Islamic Republic of Mauritania,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.114760676,0.129754773,0.102387557,Islamic Republic of Mauritania,MRT
+5,Prevalence,165,Islamic Republic of Pakistan,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.142517251,0.1586532,0.128676362,Islamic Republic of Pakistan,PAK
+5,Prevalence,115,Jamaica,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.155964759,0.176577628,0.136433304,Jamaica,JAM
+5,Prevalence,67,Japan,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.127630217,0.13681761,0.11946835,Japan,JPN
+5,Prevalence,140,Kingdom of Bahrain,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.164747347,0.186799947,0.1446289,Kingdom of Bahrain,BHR
+5,Prevalence,76,Kingdom of Belgium,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.170090289,0.194934686,0.151077237,Kingdom of Belgium,BEL
+5,Prevalence,162,Kingdom of Bhutan,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.126158873,0.141525171,0.112195748,Kingdom of Bhutan,BTN
+5,Prevalence,10,Kingdom of Cambodia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.128619763,0.147800031,0.112610217,Kingdom of Cambodia,KHM
+5,Prevalence,78,Kingdom of Denmark,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.169112983,0.191981124,0.150134737,Kingdom of Denmark,DNK
+5,Prevalence,197,Kingdom of Eswatini,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.150585277,0.169555323,0.131473099,Kingdom of Eswatini,SWZ
+5,Prevalence,194,Kingdom of Lesotho,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.163351119,0.187980625,0.143811216,Kingdom of Lesotho,LSO
+5,Prevalence,148,Kingdom of Morocco,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.178805917,0.200793836,0.156506661,Kingdom of Morocco,MAR
+5,Prevalence,90,Kingdom of Norway,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.178066553,0.193043095,0.164005612,Kingdom of Norway,NOR
+5,Prevalence,152,Kingdom of Saudi Arabia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.150422608,0.170730735,0.1325949,Kingdom of Saudi Arabia,SAU
+5,Prevalence,92,Kingdom of Spain,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.204715267,0.230538413,0.183233477,Kingdom of Spain,ESP
+5,Prevalence,93,Kingdom of Sweden,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.174497223,0.192915161,0.158273533,Kingdom of Sweden,SWE
+5,Prevalence,18,Kingdom of Thailand,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.128310786,0.144444849,0.114829915,Kingdom of Thailand,THA
+5,Prevalence,89,Kingdom of the Netherlands,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.18866435,0.217159554,0.16593963,Kingdom of the Netherlands,NLD
+5,Prevalence,29,Kingdom of Tonga,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.119961435,0.136021024,0.106008759,Kingdom of Tonga,TON
+5,Prevalence,37,Kyrgyz Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.122440328,0.135290599,0.110741609,Kyrgyz Republic,KGZ
+5,Prevalence,12,Lao People's Democratic Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.128239242,0.147795274,0.111325602,Lao People's Democratic Republic,LAO
+5,Prevalence,146,Lebanese Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.202208756,0.231438433,0.174575922,Lebanese Republic,LBN
+5,Prevalence,13,Malaysia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.131667914,0.153324253,0.115823605,Malaysia,MYS
+5,Prevalence,38,Mongolia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.118471003,0.133823784,0.106143616,Mongolia,MNG
+5,Prevalence,50,Montenegro,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.135910248,0.155203727,0.118494091,Montenegro,MNE
+5,Prevalence,72,New Zealand,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.196852289,0.217283657,0.178081651,New Zealand,NZL
+5,Prevalence,49,North Macedonia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.134001118,0.152194971,0.117306501,North Macedonia,MKD
+5,Prevalence,376,Northern Mariana Islands,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.124013329,0.141999103,0.108806314,Northern Mariana Islands,MNP
+5,Prevalence,149,Palestine,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.198921944,0.226042253,0.176382501,Palestine,PSE
+5,Prevalence,139,People's Democratic Republic of Algeria,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.16125337,0.1812835,0.142025816,People's Democratic Republic of Algeria,DZA
+5,Prevalence,161,People's Republic of Bangladesh,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.131313401,0.14982434,0.115818085,People's Republic of Bangladesh,BGD
+5,Prevalence,6,People's Republic of China,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.122037677,0.132498658,0.112986819,People's Republic of China,CHN
+5,Prevalence,121,Plurinational State of Bolivia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.177518332,0.205020239,0.154853449,Plurinational State of Bolivia,BOL
+5,Prevalence,91,Portuguese Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.216470263,0.248569367,0.185638097,Portuguese Republic,PRT
+5,Prevalence,74,Principality of Andorra,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.176777965,0.202121137,0.154799942,Principality of Andorra,AND
+5,Prevalence,367,Principality of Monaco,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.185217086,0.209712754,0.161834061,Principality of Monaco,MCO
+5,Prevalence,385,Puerto Rico,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.15314831,0.174685163,0.135565675,Puerto Rico,PRI
+5,Prevalence,43,Republic of Albania,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.128977002,0.14681163,0.113542288,Republic of Albania,ALB
+5,Prevalence,168,Republic of Angola,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.147412988,0.168978533,0.129505878,Republic of Angola,AGO
+5,Prevalence,33,Republic of Armenia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.124883675,0.139523044,0.111403367,Republic of Armenia,ARM
+5,Prevalence,75,Republic of Austria,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.174573564,0.199207258,0.151950686,Republic of Austria,AUT
+5,Prevalence,34,Republic of Azerbaijan,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.115367751,0.128270843,0.10396791,Republic of Azerbaijan,AZE
+5,Prevalence,57,Republic of Belarus,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.156553508,0.176687498,0.138180985,Republic of Belarus,BLR
+5,Prevalence,200,Republic of Benin,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.123212979,0.139552655,0.108676575,Republic of Benin,BEN
+5,Prevalence,193,Republic of Botswana,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.140145241,0.160139757,0.124010409,Republic of Botswana,BWA
+5,Prevalence,45,Republic of Bulgaria,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.136676546,0.158738939,0.119987019,Republic of Bulgaria,BGR
+5,Prevalence,175,Republic of Burundi,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.141065085,0.159889342,0.12467567,Republic of Burundi,BDI
+5,Prevalence,205,Republic of CÃ´te d'Ivoire,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.116698194,0.131957772,0.104029012,Republic of Côte d'Ivoire,CIV
+5,Prevalence,203,Republic of Cabo Verde,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.137534876,0.155620722,0.122280087,Republic of Cabo Verde,CPV
+5,Prevalence,202,Republic of Cameroon,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.125341716,0.141997972,0.110687479,Republic of Cameroon,CMR
+5,Prevalence,204,Republic of Chad,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.128965214,0.145122159,0.113948736,Republic of Chad,TCD
+5,Prevalence,98,Republic of Chile,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.172385998,0.198417343,0.151042917,Republic of Chile,CHL
+5,Prevalence,125,Republic of Colombia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.13781933,0.157970291,0.119194075,Republic of Colombia,COL
+5,Prevalence,126,Republic of Costa Rica,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.146997934,0.165058399,0.130203702,Republic of Costa Rica,CRI
+5,Prevalence,46,Republic of Croatia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.132272526,0.150923972,0.116921033,Republic of Croatia,HRV
+5,Prevalence,109,Republic of Cuba,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.166200735,0.188284088,0.147677213,Republic of Cuba,CUB
+5,Prevalence,77,Republic of Cyprus,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.170075945,0.195551947,0.14885869,Republic of Cyprus,CYP
+5,Prevalence,177,Republic of Djibouti,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.132217963,0.151590249,0.116837903,Republic of Djibouti,DJI
+5,Prevalence,122,Republic of Ecuador,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.165205311,0.189629021,0.145928601,Republic of Ecuador,ECU
+5,Prevalence,127,Republic of El Salvador,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.147747853,0.169599683,0.130960443,Republic of El Salvador,SLV
+5,Prevalence,172,Republic of Equatorial Guinea,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.145165638,0.166250311,0.128622339,Republic of Equatorial Guinea,GNQ
+5,Prevalence,58,Republic of Estonia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.146015424,0.166071429,0.128687017,Republic of Estonia,EST
+5,Prevalence,22,Republic of Fiji,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.12280613,0.140107114,0.107601606,Republic of Fiji,FJI
+5,Prevalence,79,Republic of Finland,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.169963966,0.191833439,0.152394222,Republic of Finland,FIN
+5,Prevalence,207,Republic of Ghana,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.122719507,0.138791007,0.109797476,Republic of Ghana,GHA
+5,Prevalence,128,Republic of Guatemala,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.149441825,0.169559535,0.13129606,Republic of Guatemala,GTM
+5,Prevalence,208,Republic of Guinea,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.124520134,0.14153006,0.110268118,Republic of Guinea,GIN
+5,Prevalence,209,Republic of Guinea-Bissau,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.124917855,0.142368393,0.109842778,Republic of Guinea-Bissau,GNB
+5,Prevalence,113,Republic of Guyana,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.180735377,0.203567874,0.158405705,Republic of Guyana,GUY
+5,Prevalence,114,Republic of Haiti,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.158832839,0.179668927,0.138829436,Republic of Haiti,HTI
+5,Prevalence,129,Republic of Honduras,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.147702385,0.170391085,0.128804741,Republic of Honduras,HND
+5,Prevalence,83,Republic of Iceland,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.159757296,0.180829724,0.140819913,Republic of Iceland,ISL
+5,Prevalence,163,Republic of India,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.14778176,0.163513861,0.13325176,Republic of India,IND
+5,Prevalence,11,Republic of Indonesia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.117919117,0.128411519,0.108515656,Republic of Indonesia,IDN
+5,Prevalence,143,Republic of Iraq,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.157871675,0.179488077,0.138804042,Republic of Iraq,IRQ
+5,Prevalence,86,Republic of Italy,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.176006332,0.190031734,0.163091514,Republic of Italy,ITA
+5,Prevalence,36,Republic of Kazakhstan,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.116214097,0.128684501,0.104405605,Republic of Kazakhstan,KAZ
+5,Prevalence,180,Republic of Kenya,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.13553109,0.146164578,0.12668343,Republic of Kenya,KEN
+5,Prevalence,23,Republic of Kiribati,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.12247055,0.139906222,0.107191172,Republic of Kiribati,KIR
+5,Prevalence,68,Republic of Korea,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.123485127,0.138025333,0.110990456,Republic of Korea,KOR
+5,Prevalence,59,Republic of Latvia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.154384136,0.176333558,0.135525129,Republic of Latvia,LVA
+5,Prevalence,210,Republic of Liberia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.126505897,0.14206995,0.112549421,Republic of Liberia,LBR
+5,Prevalence,60,Republic of Lithuania,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.163464926,0.186209039,0.143967582,Republic of Lithuania,LTU
+5,Prevalence,181,Republic of Madagascar,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.140202623,0.158760383,0.123039654,Republic of Madagascar,MDG
+5,Prevalence,182,Republic of Malawi,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.135206408,0.153582056,0.118961179,Republic of Malawi,MWI
+5,Prevalence,14,Republic of Maldives,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.119793455,0.136355252,0.106895197,Republic of Maldives,MDV
+5,Prevalence,211,Republic of Mali,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.111362924,0.12449663,0.099468669,Republic of Mali,MLI
+5,Prevalence,88,Republic of Malta,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.169473306,0.194866794,0.147365452,Republic of Malta,MLT
+5,Prevalence,183,Republic of Mauritius,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.132798262,0.149322878,0.117876962,Republic of Mauritius,MUS
+5,Prevalence,61,Republic of Moldova,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.144531835,0.164437668,0.126985369,Republic of Moldova,MDA
+5,Prevalence,184,Republic of Mozambique,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.144239662,0.165753586,0.127753986,Republic of Mozambique,MOZ
+5,Prevalence,195,Republic of Namibia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.137667113,0.158209614,0.120769044,Republic of Namibia,NAM
+5,Prevalence,369,Republic of Nauru,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.122318439,0.139208953,0.108400576,Republic of Nauru,NRU
+5,Prevalence,131,Republic of Nicaragua,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.145535075,0.163606779,0.128830739,Republic of Nicaragua,NIC
+5,Prevalence,374,Republic of Niue,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.123389174,0.140242818,0.108946972,Republic of Niue,NIU
+5,Prevalence,380,Republic of Palau,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.122158035,0.138242923,0.107703228,Republic of Palau,PLW
+5,Prevalence,132,Republic of Panama,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.139478318,0.157773646,0.122086592,Republic of Panama,PAN
+5,Prevalence,136,Republic of Paraguay,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.180276322,0.207695014,0.156771326,Republic of Paraguay,PRY
+5,Prevalence,123,Republic of Peru,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.15899589,0.185978907,0.136073845,Republic of Peru,PER
+5,Prevalence,51,Republic of Poland,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.12117684,0.131123262,0.112094396,Republic of Poland,POL
+5,Prevalence,185,Republic of Rwanda,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.142956212,0.163112222,0.126279084,Republic of Rwanda,RWA
+5,Prevalence,396,Republic of San Marino,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.184885992,0.210209875,0.160066245,Republic of San Marino,SMR
+5,Prevalence,216,Republic of Senegal,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.122210077,0.137487572,0.108648486,Republic of Senegal,SEN
+5,Prevalence,53,Republic of Serbia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.129410306,0.146388307,0.113831027,Republic of Serbia,SRB
+5,Prevalence,186,Republic of Seychelles,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.121900139,0.139270155,0.107488488,Republic of Seychelles,SYC
+5,Prevalence,217,Republic of Sierra Leone,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.122290201,0.138801686,0.107455483,Republic of Sierra Leone,SLE
+5,Prevalence,69,Republic of Singapore,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.12263202,0.138050543,0.109793247,Republic of Singapore,SGP
+5,Prevalence,55,Republic of Slovenia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.131585739,0.148187793,0.117466119,Republic of Slovenia,SVN
+5,Prevalence,196,Republic of South Africa,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.142108356,0.154583795,0.132019861,Republic of South Africa,ZAF
+5,Prevalence,435,Republic of South Sudan,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.137621355,0.157211838,0.119402983,Republic of South Sudan,SSD
+5,Prevalence,522,Republic of Sudan,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.170996293,0.195453083,0.151319046,Republic of Sudan,SDN
+5,Prevalence,118,Republic of Suriname,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.179238411,0.202818742,0.157451526,Republic of Suriname,SUR
+5,Prevalence,39,Republic of Tajikistan,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.116249992,0.130217545,0.103895751,Republic of Tajikistan,TJK
+5,Prevalence,170,Republic of the Congo,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.143686998,0.163974571,0.125785793,Republic of the Congo,COG
+5,Prevalence,206,Republic of the Gambia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.139364762,0.157103371,0.122583315,Republic of the Gambia,GMB
+5,Prevalence,24,Republic of the Marshall Islands,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.120465396,0.136504724,0.106497561,Republic of the Marshall Islands,MHL
+5,Prevalence,213,Republic of the Niger,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.116884711,0.13090932,0.104589734,Republic of the Niger,NER
+5,Prevalence,16,Republic of the Philippines,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.128660382,0.138691342,0.119040835,Republic of the Philippines,PHL
+5,Prevalence,15,Republic of the Union of Myanmar,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.119231832,0.136484753,0.102838772,Republic of the Union of Myanmar,MMR
+5,Prevalence,119,Republic of Trinidad and Tobago,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.169751462,0.192582463,0.15033766,Republic of Trinidad and Tobago,TTO
+5,Prevalence,154,Republic of Tunisia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.193469667,0.220942709,0.169933245,Republic of Tunisia,TUN
+5,Prevalence,155,Republic of Turkey,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.160690956,0.183075853,0.141939897,Republic of Turkey,TUR
+5,Prevalence,190,Republic of Uganda,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.160914786,0.185787393,0.14179617,Republic of Uganda,UGA
+5,Prevalence,41,Republic of Uzbekistan,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.113189324,0.125937801,0.101800213,Republic of Uzbekistan,UZB
+5,Prevalence,30,Republic of Vanuatu,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.122085274,0.138096954,0.107583136,Republic of Vanuatu,VUT
+5,Prevalence,157,Republic of Yemen,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.164222775,0.187644991,0.144269649,Republic of Yemen,YEM
+5,Prevalence,191,Republic of Zambia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.135038488,0.152536249,0.11916793,Republic of Zambia,ZMB
+5,Prevalence,198,Republic of Zimbabwe,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.122485564,0.139248497,0.10827237,Republic of Zimbabwe,ZWE
+5,Prevalence,52,Romania,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.128392213,0.145381359,0.112983338,Romania,ROU
+5,Prevalence,62,Russian Federation,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.13639934,0.146882889,0.126849101,Russian Federation,RUS
+5,Prevalence,393,Saint Kitts and Nevis,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.163209216,0.182031626,0.144112124,Saint Kitts and Nevis,KNA
+5,Prevalence,116,Saint Lucia,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.162796311,0.184862509,0.144296158,Saint Lucia,LCA
+5,Prevalence,117,Saint Vincent and the Grenadines,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.159553822,0.179350762,0.14113929,Saint Vincent and the Grenadines,VCT
+5,Prevalence,54,Slovak Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.131571354,0.148115464,0.117258853,Slovak Republic,SVK
+5,Prevalence,20,Socialist Republic of Viet Nam,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.101255368,0.113117734,0.091342508,Socialist Republic of Viet Nam,VNM
+5,Prevalence,28,Solomon Islands,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.122875222,0.140921542,0.108994787,Solomon Islands,SLB
+5,Prevalence,178,State of Eritrea,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.137460117,0.15509263,0.121097565,State of Eritrea,ERI
+5,Prevalence,85,State of Israel,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.158847886,0.179228757,0.141934682,State of Israel,ISR
+5,Prevalence,145,State of Kuwait,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.152225849,0.172595123,0.13537966,State of Kuwait,KWT
+5,Prevalence,147,State of Libya,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.169028583,0.196384975,0.148475499,State of Libya,LBY
+5,Prevalence,151,State of Qatar,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.151926231,0.174001934,0.134776876,State of Qatar,QAT
+5,Prevalence,150,Sultanate of Oman,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.156945831,0.179580175,0.137879802,Sultanate of Oman,OMN
+5,Prevalence,94,Swiss Confederation,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.190735438,0.219947314,0.167292325,Swiss Confederation,CHE
+5,Prevalence,153,Syrian Arab Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.173249191,0.1990246,0.152391948,Syrian Arab Republic,SYR
+5,Prevalence,8,Taiwan (Province of China),3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.11433355,0.130197763,0.102112155,Taiwan (Province of China),TWN
+5,Prevalence,218,Togolese Republic,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.125548293,0.141253672,0.112498683,Togolese Republic,TGO
+5,Prevalence,413,Tokelau,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.123714037,0.140858392,0.110001373,Tokelau,TKL
+5,Prevalence,40,Turkmenistan,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.11482002,0.129191424,0.102227888,Turkmenistan,TKM
+5,Prevalence,416,Tuvalu,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.124616284,0.140051008,0.110007738,Tuvalu,TUV
+5,Prevalence,63,Ukraine,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.143404431,0.1588444,0.128976001,Ukraine,UKR
+5,Prevalence,176,Union of the Comoros,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.133163054,0.149404695,0.118203291,Union of the Comoros,COM
+5,Prevalence,156,United Arab Emirates,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.145152605,0.165689798,0.128232834,United Arab Emirates,ARE
+5,Prevalence,95,United Kingdom of Great Britain and Northern Ireland,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.172888547,0.18500452,0.160515549,United Kingdom of Great Britain and Northern Ireland,GBR
+5,Prevalence,130,United Mexican States,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.142741486,0.153577979,0.132449066,United Mexican States,MEX
+5,Prevalence,189,United Republic of Tanzania,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.136260869,0.156608731,0.119710581,United Republic of Tanzania,TZA
+5,Prevalence,102,United States of America,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.196026974,0.211956199,0.182714189,United States of America,USA
+5,Prevalence,422,United States Virgin Islands,3,Both,27,Age-standardized,558,Mental disorders,2,Percent,2021,0.160029491,0.182145507,0.141888585,United States Virgin Islands,VIR

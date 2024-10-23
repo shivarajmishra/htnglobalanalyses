@@ -1,0 +1,289 @@
+Indicator,Regioncode,Region,Location type,Code,Country,Period type,Year,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,HF,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+"Number of geriatricians or psychogeriatricians (per 100,000)",SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2017,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",AFR,Africa,Country,SWZ,Eswatini,Year,2017,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",WPR,Western Pacific,Country,FJI,Fiji,Year,2017,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",SEAR,South-East Asia,Country,MMR,Myanmar,Year,2017,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",AFR,Africa,Country,TGO,Togo,Year,2017,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2017,TRUE,,,,,,,,,,,,,0.03,,,,,,0.03,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",AFR,Africa,Country,MUS,Mauritius,Year,2017,TRUE,,,,,,,,,,,,,0.15,,,,,,0.15,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",AMR,Americas,Country,DOM,Dominican Republic,Year,2017,TRUE,,,,,,,,,,,,,0.43,,,,,,0.43,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",AMR,Americas,Country,CHL,Chile,Year,2017,TRUE,,,,,,,,,,,,,0.55,,,,,,0.55,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2017,TRUE,,,,,,,,,,,,,1.25,,,,,,1.25,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2017,TRUE,,,,,,,,,,,,,1.3,,,,,,1.3,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",EUR,Europe,Country,NLD,Netherlands (Kingdom of the),Year,2017,TRUE,,,,,,,,,,,,,1.4,,,,,,1.4,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",WPR,Western Pacific,Country,JPN,Japan,Year,2017,TRUE,,,,,,,,,,,,,1.87,,,,,,1.87,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",WPR,Western Pacific,Country,AUS,Australia,Year,2017,TRUE,,,,,,,,,,,,,2.24,,,,,,2.24,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",EUR,Europe,Country,FRA,France,Year,2017,TRUE,,,,,,,,,,,,,2.7,,,,,,2.7,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",EUR,Europe,Country,CHE,Switzerland,Year,2017,TRUE,,,,,,,,,,,,,3.32,,,,,,3.32,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",EUR,Europe,Country,SWE,Sweden,Year,2017,TRUE,,,,,,,,,,,,,5.12,,,,,,5.12,,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",AMR,Americas,Country,CRI,Costa Rica,Year,2017,TRUE,,,,,,,,,,,,,,,,,,,Not available,591,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",EUR,Europe,Country,HUN,Hungary,Year,2017,TRUE,,,,,,,,,,,,,,,,,,,Not available,591,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",EUR,Europe,Country,ITA,Italy,Year,2017,TRUE,,,,,,,,,,,,,,,,,,,Not available,591,,EN,2017-12-07T13:00:00.000Z
+"Number of geriatricians or psychogeriatricians (per 100,000)",SEAR,South-East Asia,Country,MDV,Maldives,Year,2017,TRUE,,,,,,,,,,,,,,,,,,,Not available,591,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",AFR,Africa,Country,SWZ,Eswatini,Year,2017,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",WPR,Western Pacific,Country,FJI,Fiji,Year,2017,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",SEAR,South-East Asia,Country,MMR,Myanmar,Year,2017,TRUE,,,,,,,,,,,,,0.07,,,,,,0.07,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2017,TRUE,,,,,,,,,,,,,0.09,,,,,,0.09,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",AFR,Africa,Country,TGO,Togo,Year,2017,TRUE,,,,,,,,,,,,,0.14,,,,,,0.14,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",AFR,Africa,Country,MUS,Mauritius,Year,2017,TRUE,,,,,,,,,,,,,0.23,,,,,,0.23,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2017,TRUE,,,,,,,,,,,,,0.41,,,,,,0.41,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",AMR,Americas,Country,CRI,Costa Rica,Year,2017,TRUE,,,,,,,,,,,,,0.61,,,,,,0.61,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",AMR,Americas,Country,DOM,Dominican Republic,Year,2017,TRUE,,,,,,,,,,,,,0.69,,,,,,0.69,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2017,TRUE,,,,,,,,,,,,,1.58,,,,,,1.58,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2017,TRUE,,,,,,,,,,,,,1.78,,,,,,1.78,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",EUR,Europe,Country,CHE,Switzerland,Year,2017,TRUE,,,,,,,,,,,,,13.1,,,,,,13.1,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",WPR,Western Pacific,Country,AUS,Australia,Year,2017,TRUE,,,,,,,,,,,,,2.1,,,,,,2.1,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",EUR,Europe,Country,FRA,France,Year,2017,TRUE,,,,,,,,,,,,,3.8,,,,,,3.8,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",EUR,Europe,Country,SWE,Sweden,Year,2017,TRUE,,,,,,,,,,,,,4.2,,,,,,4.2,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",WPR,Western Pacific,Country,JPN,Japan,Year,2017,TRUE,,,,,,,,,,,,,4.38,,,,,,4.38,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",AMR,Americas,Country,CHL,Chile,Year,2017,TRUE,,,,,,,,,,,,,4.79,,,,,,4.79,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",EUR,Europe,Country,NLD,Netherlands (Kingdom of the),Year,2017,TRUE,,,,,,,,,,,,,6.01,,,,,,6.01,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",EUR,Europe,Country,HUN,Hungary,Year,2017,TRUE,,,,,,,,,,,,,6.6,,,,,,6.6,,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",EUR,Europe,Country,ITA,Italy,Year,2017,TRUE,,,,,,,,,,,,,,,,,,,Not available,591,,EN,2017-12-07T13:00:00.000Z
+"Number of neurologists (per 100,000)",SEAR,South-East Asia,Country,MDV,Maldives,Year,2017,TRUE,,,,,,,,,,,,,,,,,,,Not available,591,,EN,2017-12-07T13:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2017,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,BDI,Burundi,Year,2017,TRUE,,,,,,,,,,,,,0.01,,,,,,0.01,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,CAF,Central African Republic,Year,2017,TRUE,,,,,,,,,,,,,0.022,,,,,,0.022,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,SLE,Sierra Leone,Year,2017,TRUE,,,,,,,,,,,,,0.041,,,,,,0.041,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,SWZ,Eswatini,Year,2017,TRUE,,,,,,,,,,,,,0.076,,,,,,0.076,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,ETH,Ethiopia,Year,2017,TRUE,,,,,,,,,,,,,0.076,,,,,,0.076,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,COM,Comoros,Year,2017,TRUE,,,,,,,,,,,,,0.13,,,,,,0.129,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2017,TRUE,,,,,,,,,,,,,0.34,,,,,,0.343,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,TRUE,,,,,,,,,,,,,0.52,,,,,,0.517,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,TRUE,,,,,,,,,,,,,0.68,,,,,,0.681,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,NIC,Nicaragua,Year,2017,TRUE,,,,,,,,,,,,,0.69,,,,,,0.691,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,MKD,North Macedonia,Year,2017,TRUE,,,,,,,,,,,,,14.43,,,,,,14.428,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,CAN,Canada,Year,2017,TRUE,,,,,,,,,,,,,14.68,,,,,,14.679,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,TRUE,,,,,,,,,,,,,2.02,,,,,,2.016,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,MUS,Mauritius,Year,2017,TRUE,,,,,,,,,,,,,2.38,,,,,,2.382,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,MDV,Maldives,Year,2017,TRUE,,,,,,,,,,,,,2.39,,,,,,2.39,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,FRA,France,Year,2017,TRUE,,,,,,,,,,,,,20.91,,,,,,20.907,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,FIN,Finland,Year,2017,TRUE,,,,,,,,,,,,,23.59,,,,,,23.586,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2017,TRUE,,,,,,,,,,,,,5.47,,,,,,5.467,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2017,TRUE,,,,,,,,,,,,,5.53,,,,,,5.526,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,SRB,Serbia,Year,2017,TRUE,,,,,,,,,,,,,8.64,,,,,,8.643,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,CAF,Central African Republic,Year,2017,TRUE,,,,,,,,,,,,,0.022,,,,,,0.022,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,SLE,Sierra Leone,Year,2017,TRUE,,,,,,,,,,,,,0.028,,,,,,0.028,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,ETH,Ethiopia,Year,2017,TRUE,,,,,,,,,,,,,0.04,,,,,,0.04,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,BDI,Burundi,Year,2017,TRUE,,,,,,,,,,,,,0.069,,,,,,0.069,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,TRUE,,,,,,,,,,,,,0.085,,,,,,0.085,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2017,TRUE,,,,,,,,,,,,,0.089,,,,,,0.089,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,SWZ,Eswatini,Year,2017,TRUE,,,,,,,,,,,,,0.15,,,,,,0.152,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,TRUE,,,,,,,,,,,,,0.28,,,,,,0.285,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,SRB,Serbia,Year,2017,TRUE,,,,,,,,,,,,,0.36,,,,,,0.362,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,MDV,Maldives,Year,2017,TRUE,,,,,,,,,,,,,0.48,,,,,,0.478,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,MKD,North Macedonia,Year,2017,TRUE,,,,,,,,,,,,,1.44,,,,,,1.443,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2017,TRUE,,,,,,,,,,,,,1.46,,,,,,1.458,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,MUS,Mauritius,Year,2017,TRUE,,,,,,,,,,,,,1.51,,,,,,1.509,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,TRUE,,,,,,,,,,,,,1.51,,,,,,1.512,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2017,TRUE,,,,,,,,,,,,,1.83,,,,,,1.827,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,CAN,Canada,Year,2017,TRUE,,,,,,,,,,,,,145.4,,,,,,145.4,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,FIN,Finland,Year,2017,TRUE,,,,,,,,,,,,,2.75,,,,,,2.754,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,NIC,Nicaragua,Year,2017,TRUE,,,,,,,,,,,,,3.57,,,,,,3.568,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,TCD,Chad,Year,2016,TRUE,,,,,,,,,,,,,0.007,,,,,,0.007,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,NER,Niger,Year,2016,TRUE,,,,,,,,,,,,,0.014,,,,,,0.014,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,GIN,Guinea,Year,2016,TRUE,,,,,,,,,,,,,0.025,,,,,,0.025,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,SSD,South Sudan,Year,2016,TRUE,,,,,,,,,,,,,0.025,,,,,,0.025,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,MLI,Mali,Year,2016,TRUE,,,,,,,,,,,,,0.029,,,,,,0.029,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,BFA,Burkina Faso,Year,2016,TRUE,,,,,,,,,,,,,0.039,,,,,,0.039,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,LBR,Liberia,Year,2016,TRUE,,,,,,,,,,,,,0.044,,,,,,0.044,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,MOZ,Mozambique,Year,2016,TRUE,,,,,,,,,,,,,0.046,,,,,,0.046,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,TGO,Togo,Year,2016,TRUE,,,,,,,,,,,,,0.054,,,,,,0.054,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,ZMB,Zambia,Year,2016,TRUE,,,,,,,,,,,,,0.056,,,,,,0.056,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,AGO,Angola,Year,2016,TRUE,,,,,,,,,,,,,0.057,,,,,,0.057,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,GHA,Ghana,Year,2016,TRUE,,,,,,,,,,,,,0.058,,,,,,0.058,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,MDG,Madagascar,Year,2016,TRUE,,,,,,,,,,,,,0.058,,,,,,0.058,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,RWA,Rwanda,Year,2016,TRUE,,,,,,,,,,,,,0.06,,,,,,0.06,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,HTI,Haiti,Year,2016,TRUE,,,,,,,,,,,,,0.075,,,,,,0.075,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,COG,Congo,Year,2016,TRUE,,,,,,,,,,,,,0.08,,,,,,0.08,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2016,TRUE,,,,,,,,,,,,,0.081,,,,,,0.081,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,UGA,Uganda,Year,2016,TRUE,,,,,,,,,,,,,0.082,,,,,,0.082,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,ZWE,Zimbabwe,Year,2016,TRUE,,,,,,,,,,,,,0.095,,,,,,0.095,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,GMB,Gambia,Year,2016,TRUE,,,,,,,,,,,,,0.1,,,,,,0.101,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2016,TRUE,,,,,,,,,,,,,0.13,,,,,,0.13,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2016,TRUE,,,,,,,,,,,,,0.13,,,,,,0.13,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,KEN,Kenya,Year,2016,TRUE,,,,,,,,,,,,,0.18,,,,,,0.184,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,SEN,Senegal,Year,2016,TRUE,,,,,,,,,,,,,0.2,,,,,,0.2,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2016,TRUE,,,,,,,,,,,,,0.2,,,,,,0.201,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,MEX,Mexico,Year,2016,TRUE,,,,,,,,,,,,,0.21,,,,,,0.207,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,FJI,Fiji,Year,2016,TRUE,,,,,,,,,,,,,0.22,,,,,,0.224,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2016,TRUE,,,,,,,,,,,,,0.23,,,,,,0.231,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,GAB,Gabon,Year,2016,TRUE,,,,,,,,,,,,,0.26,,,,,,0.259,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,IND,India,Year,2016,TRUE,,,,,,,,,,,,,0.29,,,,,,0.292,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,IDN,Indonesia,Year,2016,TRUE,,,,,,,,,,,,,0.31,,,,,,0.31,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,NPL,Nepal,Year,2016,TRUE,,,,,,,,,,,,,0.36,,,,,,0.356,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2016,TRUE,,,,,,,,,,,,,0.37,,,,,,0.368,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,NAM,Namibia,Year,2016,TRUE,,,,,,,,,,,,,0.37,,,,,,0.371,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,VUT,Vanuatu,Year,2016,TRUE,,,,,,,,,,,,,0.38,,,,,,0.378,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,MMR,Myanmar,Year,2016,TRUE,,,,,,,,,,,,,0.38,,,,,,0.384,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,KHM,Cambodia,Year,2016,TRUE,,,,,,,,,,,,,0.39,,,,,,0.387,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,ECU,Ecuador,Year,2016,TRUE,,,,,,,,,,,,,0.46,,,,,,0.458,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,GTM,Guatemala,Year,2016,TRUE,,,,,,,,,,,,,0.49,,,,,,0.492,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,BTN,Bhutan,Year,2016,TRUE,,,,,,,,,,,,,0.51,,,,,,0.508,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,STP,Sao Tome and Principe,Year,2016,TRUE,,,,,,,,,,,,,0.51,,,,,,0.511,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,PHL,Philippines,Year,2016,TRUE,,,,,,,,,,,,,0.52,,,,,,0.518,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,LCA,Saint Lucia,Year,2016,TRUE,,,,,,,,,,,,,0.56,,,,,,0.564,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,THA,Thailand,Year,2016,TRUE,,,,,,,,,,,,,0.72,,,,,,0.721,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2016,TRUE,,,,,,,,,,,,,0.84,,,,,,0.839,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,SLV,El Salvador,Year,2016,TRUE,,,,,,,,,,,,,0.89,,,,,,0.887,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,GUY,Guyana,Year,2016,TRUE,,,,,,,,,,,,,0.91,,,,,,0.911,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2016,TRUE,,,,,,,,,,,,,1,,,,,,1.001,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,MYS,Malaysia,Year,2016,TRUE,,,,,,,,,,,,,1.05,,,,,,1.048,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2016,TRUE,,,,,,,,,,,,,1.12,,,,,,1.125,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2016,TRUE,,,,,,,,,,,,,1.13,,,,,,1.128,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2016,TRUE,,,,,,,,,,,,,1.2,,,,,,1.197,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,SUR,Suriname,Year,2016,TRUE,,,,,,,,,,,,,1.27,,,,,,1.265,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2016,TRUE,,,,,,,,,,,,,1.32,,,,,,1.321,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,BLZ,Belize,Year,2016,TRUE,,,,,,,,,,,,,1.39,,,,,,1.392,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,TJK,Tajikistan,Year,2016,TRUE,,,,,,,,,,,,,1.39,,,,,,1.392,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,ALB,Albania,Year,2016,TRUE,,,,,,,,,,,,,1.47,,,,,,1.471,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,ZAF,South Africa,Year,2016,TRUE,,,,,,,,,,,,,1.52,,,,,,1.521,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,WSM,Samoa,Year,2016,TRUE,,,,,,,,,,,,,1.55,,,,,,1.548,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2016,TRUE,,,,,,,,,,,,,1.6,,,,,,1.6,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,TUR,Türkiye,Year,2016,TRUE,,,,,,,,,,,,,1.64,,,,,,1.637,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2016,TRUE,,,,,,,,,,,,,1.65,,,,,,1.649,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2016,TRUE,,,,,,,,,,,,,1.69,,,,,,1.688,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,COL,Colombia,Year,2016,TRUE,,,,,,,,,,,,,1.84,,,,,,1.835,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,GRD,Grenada,Year,2016,TRUE,,,,,,,,,,,,,1.87,,,,,,1.872,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,USA,United States of America,Year,2016,TRUE,,,,,,,,,,,,,10.54,,,,,,10.542,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,HUN,Hungary,Year,2016,TRUE,,,,,,,,,,,,,11.08,,,,,,11.079,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,HRV,Croatia,Year,2016,TRUE,,,,,,,,,,,,,11.1,,,,,,11.095,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,JPN,Japan,Year,2016,TRUE,,,,,,,,,,,,,11.87,,,,,,11.867,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,SVN,Slovenia,Year,2016,TRUE,,,,,,,,,,,,,11.95,,,,,,11.953,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,BLR,Belarus,Year,2016,TRUE,,,,,,,,,,,,,13.5,,,,,,13.504,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,URY,Uruguay,Year,2016,TRUE,,,,,,,,,,,,,14.13,,,,,,14.134,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,EST,Estonia,Year,2016,TRUE,,,,,,,,,,,,,16.19,,,,,,16.188,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,LTU,Lithuania,Year,2016,TRUE,,,,,,,,,,,,,18.45,,,,,,18.452,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,SYC,Seychelles,Year,2016,TRUE,,,,,,,,,,,,,2.13,,,,,,2.134,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,DOM,Dominican Republic,Year,2016,TRUE,,,,,,,,,,,,,2.28,,,,,,2.28,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,UZB,Uzbekistan,Year,2016,TRUE,,,,,,,,,,,,,2.61,,,,,,2.612,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2016,TRUE,,,,,,,,,,,,,2.71,,,,,,2.712,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,TON,Tonga,Year,2016,TRUE,,,,,,,,,,,,,2.82,,,,,,2.821,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,PER,Peru,Year,2016,TRUE,,,,,,,,,,,,,2.95,,,,,,2.948,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,SWE,Sweden,Year,2016,TRUE,,,,,,,,,,,,,20.86,,,,,,20.863,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,ARG,Argentina,Year,2016,TRUE,,,,,,,,,,,,,21.71,,,,,,21.705,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,POL,Poland,Year,2016,TRUE,,,,,,,,,,,,,24.18,,,,,,24.176,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,NZL,New Zealand,Year,2016,TRUE,,,,,,,,,,,,,28.54,,,,,,28.54,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,BRA,Brazil,Year,2016,TRUE,,,,,,,,,,,,,3.16,,,,,,3.165,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,AZE,Azerbaijan,Year,2016,TRUE,,,,,,,,,,,,,3.45,,,,,,3.452,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,ARM,Armenia,Year,2016,TRUE,,,,,,,,,,,,,3.84,,,,,,3.84,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,CRI,Costa Rica,Year,2016,TRUE,,,,,,,,,,,,,3.93,,,,,,3.931,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,MCO,Monaco,Year,2016,TRUE,,,,,,,,,,,,,31.33,,,,,,31.326,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,MNG,Mongolia,Year,2016,TRUE,,,,,,,,,,,,,4.03,,,,,,4.031,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,PAN,Panama,Year,2016,TRUE,,,,,,,,,,,,,4.03,,,,,,4.031,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,SGP,Singapore,Year,2016,TRUE,,,,,,,,,,,,,4.19,,,,,,4.191,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,NOR,Norway,Year,2016,TRUE,,,,,,,,,,,,,48.04,,,,,,48.04,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,ROU,Romania,Year,2016,TRUE,,,,,,,,,,,,,5.66,,,,,,5.665,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,COK,Cook Islands,Year,2016,TRUE,,,,,,,,,,,,,5.73,,,,,,5.731,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2016,TRUE,,,,,,,,,,,,,5.79,,,,,,5.793,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,GRC,Greece,Year,2016,TRUE,,,,,,,,,,,,,5.8,,,,,,5.803,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,GEO,Georgia,Year,2016,TRUE,,,,,,,,,,,,,6.71,,,,,,6.706,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,UKR,Ukraine,Year,2016,TRUE,,,,,,,,,,,,,6.93,,,,,,6.93,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,CHL,Chile,Year,2016,TRUE,,,,,,,,,,,,,6.97,,,,,,6.97,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,BGR,Bulgaria,Year,2016,TRUE,,,,,,,,,,,,,7.2,,,,,,7.203,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,MNE,Montenegro,Year,2016,TRUE,,,,,,,,,,,,,8.28,,,,,,8.278,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,CUB,Cuba,Year,2016,TRUE,,,,,,,,,,,,,9.06,,,,,,9.056,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,ISR,Israel,Year,2016,TRUE,,,,,,,,,,,,,9.87,,,,,,9.87,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,GTM,Guatemala,Year,2016,TRUE,,,,,,,,,,,,,0.006,,,,,,0.006,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,TCD,Chad,Year,2016,TRUE,,,,,,,,,,,,,0.007,,,,,,0.007,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,GIN,Guinea,Year,2016,TRUE,,,,,,,,,,,,,0.008,,,,,,0.008,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,BFA,Burkina Faso,Year,2016,TRUE,,,,,,,,,,,,,0.011,,,,,,0.011,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,MMR,Myanmar,Year,2016,TRUE,,,,,,,,,,,,,0.013,,,,,,0.013,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,MOZ,Mozambique,Year,2016,TRUE,,,,,,,,,,,,,0.018,,,,,,0.018,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,ECU,Ecuador,Year,2016,TRUE,,,,,,,,,,,,,0.019,,,,,,0.019,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,ZMB,Zambia,Year,2016,TRUE,,,,,,,,,,,,,0.019,,,,,,0.019,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,COG,Congo,Year,2016,TRUE,,,,,,,,,,,,,0.02,,,,,,0.02,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,AGO,Angola,Year,2016,TRUE,,,,,,,,,,,,,0.022,,,,,,0.022,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,NER,Niger,Year,2016,TRUE,,,,,,,,,,,,,0.028,,,,,,0.028,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,UGA,Uganda,Year,2016,TRUE,,,,,,,,,,,,,0.037,,,,,,0.037,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,ERI,Eritrea,Year,2016,TRUE,,,,,,,,,,,,,0.041,,,,,,0.041,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,MDG,Madagascar,Year,2016,TRUE,,,,,,,,,,,,,0.05,,,,,,0.05,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,TGO,Togo,Year,2016,TRUE,,,,,,,,,,,,,0.054,,,,,,0.054,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2016,TRUE,,,,,,,,,,,,,0.056,,,,,,0.056,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,IND,India,Year,2016,TRUE,,,,,,,,,,,,,0.065,,,,,,0.065,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,SEN,Senegal,Year,2016,TRUE,,,,,,,,,,,,,0.067,,,,,,0.067,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,GMB,Gambia,Year,2016,TRUE,,,,,,,,,,,,,0.1,,,,,,0.101,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",WPR,Western Pacific,Country,MNG,Mongolia,Year,2016,TRUE,,,,,,,,,,,,,0.1,,,,,,0.101,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,GAB,Gabon,Year,2016,TRUE,,,,,,,,,,,,,0.1,,,,,,0.104,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,AZE,Azerbaijan,Year,2016,TRUE,,,,,,,,,,,,,0.11,,,,,,0.114,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2016,TRUE,,,,,,,,,,,,,0.11,,,,,,0.115,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,GNB,Guinea-Bissau,Year,2016,TRUE,,,,,,,,,,,,,0.17,,,,,,0.169,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,RWA,Rwanda,Year,2016,TRUE,,,,,,,,,,,,,0.17,,,,,,0.172,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,NAM,Namibia,Year,2016,TRUE,,,,,,,,,,,,,0.21,,,,,,0.206,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2016,TRUE,,,,,,,,,,,,,0.22,,,,,,0.218,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2016,TRUE,,,,,,,,,,,,,0.24,,,,,,0.239,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,ARM,Armenia,Year,2016,TRUE,,,,,,,,,,,,,0.27,,,,,,0.274,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,DOM,Dominican Republic,Year,2016,TRUE,,,,,,,,,,,,,0.29,,,,,,0.294,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,SLV,El Salvador,Year,2016,TRUE,,,,,,,,,,,,,0.3,,,,,,0.301,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2016,TRUE,,,,,,,,,,,,,0.36,,,,,,0.36,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,SUR,Suriname,Year,2016,TRUE,,,,,,,,,,,,,0.36,,,,,,0.362,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,HTI,Haiti,Year,2016,TRUE,,,,,,,,,,,,,0.37,,,,,,0.373,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",WPR,Western Pacific,Country,VUT,Vanuatu,Year,2016,TRUE,,,,,,,,,,,,,0.38,,,,,,0.378,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2016,TRUE,,,,,,,,,,,,,0.45,,,,,,0.448,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,ROU,Romania,Year,2016,TRUE,,,,,,,,,,,,,0.5,,,,,,0.503,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,STP,Sao Tome and Principe,Year,2016,TRUE,,,,,,,,,,,,,0.51,,,,,,0.511,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,MEX,Mexico,Year,2016,TRUE,,,,,,,,,,,,,0.53,,,,,,0.53,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,EST,Estonia,Year,2016,TRUE,,,,,,,,,,,,,0.53,,,,,,0.532,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",WPR,Western Pacific,Country,FJI,Fiji,Year,2016,TRUE,,,,,,,,,,,,,0.56,,,,,,0.56,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,LCA,Saint Lucia,Year,2016,TRUE,,,,,,,,,,,,,0.56,,,,,,0.564,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,ZWE,Zimbabwe,Year,2016,TRUE,,,,,,,,,,,,,0.63,,,,,,0.634,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2016,TRUE,,,,,,,,,,,,,0.65,,,,,,0.646,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,BGR,Bulgaria,Year,2016,TRUE,,,,,,,,,,,,,0.78,,,,,,0.78,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2016,TRUE,,,,,,,,,,,,,0.8,,,,,,0.801,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,THA,Thailand,Year,2016,TRUE,,,,,,,,,,,,,0.84,,,,,,0.836,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,ALB,Albania,Year,2016,TRUE,,,,,,,,,,,,,1.06,,,,,,1.06,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,MNE,Montenegro,Year,2016,TRUE,,,,,,,,,,,,,1.11,,,,,,1.114,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,HRV,Croatia,Year,2016,TRUE,,,,,,,,,,,,,1.3,,,,,,1.298,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,CUB,Cuba,Year,2016,TRUE,,,,,,,,,,,,,1.33,,,,,,1.335,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,LBR,Liberia,Year,2016,TRUE,,,,,,,,,,,,,1.4,,,,,,1.4,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",WPR,Western Pacific,Country,WSM,Samoa,Year,2016,TRUE,,,,,,,,,,,,,1.55,,,,,,1.548,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2016,TRUE,,,,,,,,,,,,,1.61,,,,,,1.612,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,TUR,Türkiye,Year,2016,TRUE,,,,,,,,,,,,,1.64,,,,,,1.643,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,SVN,Slovenia,Year,2016,TRUE,,,,,,,,,,,,,1.98,,,,,,1.976,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,MCO,Monaco,Year,2016,TRUE,,,,,,,,,,,,,102.6,,,,,,102.592,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",WPR,Western Pacific,Country,COK,Cook Islands,Year,2016,TRUE,,,,,,,,,,,,,17.19,,,,,,17.193,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,GRD,Grenada,Year,2016,TRUE,,,,,,,,,,,,,2.81,,,,,,2.808,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,GRC,Greece,Year,2016,TRUE,,,,,,,,,,,,,3.46,,,,,,3.459,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2016,TRUE,,,,,,,,,,,,,3.95,,,,,,3.955,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2016,TRUE,,,,,,,,,,,,,4,,,,,,4.003,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,BRA,Brazil,Year,2016,TRUE,,,,,,,,,,,,,6.61,,,,,,6.608,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,USA,United States of America,Year,2016,TRUE,,,,,,,,,,,,,60.34,,,,,,60.338,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,CRI,Costa Rica,Year,2016,TRUE,,,,,,,,,,,,,76.96,,,,,,76.957,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",WPR,Western Pacific,Country,JPN,Japan,Year,2016,TRUE,,,,,,,,,,,,,8.33,,,,,,8.328,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2016,TRUE,,,,,,,,,,,,,8.4,,,,,,8.404,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,PAN,Panama,Year,2016,TRUE,,,,,,,,,,,,,9.22,,,,,,9.221,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2015,TRUE,,,,,,,,,,,,,0.056,,,,,,0.056,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2015,TRUE,,,,,,,,,,,,,0.08,,,,,,0.08,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,JAM,Jamaica,Year,2015,TRUE,,,,,,,,,,,,,1.15,,,,,,1.149,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2015,TRUE,,,,,,,,,,,,,1.21,,,,,,1.213,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2015,TRUE,,,,,,,,,,,,,1.74,,,,,,1.738,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,CZE,Czechia,Year,2015,TRUE,,,,,,,,,,,,,12.36,,,,,,12.364,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,DEU,Germany,Year,2015,TRUE,,,,,,,,,,,,,13.2,,,,,,13.202,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,AUS,Australia,Year,2015,TRUE,,,,,,,,,,,,,13.53,,,,,,13.525,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,LUX,Luxembourg,Year,2015,TRUE,,,,,,,,,,,,,17.82,,,,,,17.821,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",WPR,Western Pacific,Country,CHN,China,Year,2015,TRUE,,,,,,,,,,,,,2.2,,,,,,2.199,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,NLD,Netherlands (Kingdom of the),Year,2015,TRUE,,,,,,,,,,,,,20.87,,,,,,20.87,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,MDA,Republic of Moldova,Year,2015,TRUE,,,,,,,,,,,,,4.55,,,,,,4.55,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,CHE,Switzerland,Year,2015,TRUE,,,,,,,,,,,,,43.96,,,,,,43.956,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,ITA,Italy,Year,2015,TRUE,,,,,,,,,,,,,5.98,,,,,,5.978,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2015,TRUE,,,,,,,,,,,,,8.03,,,,,,8.032,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,RUS,Russian Federation,Year,2015,TRUE,,,,,,,,,,,,,8.48,,,,,,8.479,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,ESP,Spain,Year,2015,TRUE,,,,,,,,,,,,,9.69,,,,,,9.694,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,LVA,Latvia,Year,2015,TRUE,,,,,,,,,,,,,9.99,,,,,,9.987,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,CYP,Cyprus,Year,2015,TRUE,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2015,TRUE,,,,,,,,,,,,,0.065,,,,,,0.065,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,ESP,Spain,Year,2015,TRUE,,,,,,,,,,,,,0.11,,,,,,0.114,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,JAM,Jamaica,Year,2015,TRUE,,,,,,,,,,,,,0.45,,,,,,0.453,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,MDA,Republic of Moldova,Year,2015,TRUE,,,,,,,,,,,,,0.49,,,,,,0.492,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2015,TRUE,,,,,,,,,,,,,0.55,,,,,,0.551,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2015,TRUE,,,,,,,,,,,,,0.59,,,,,,0.594,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",WPR,Western Pacific,Country,KIR,Kiribati,Year,2015,TRUE,,,,,,,,,,,,,0.89,,,,,,0.89,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,CZE,Czechia,Year,2015,TRUE,,,,,,,,,,,,,1.21,,,,,,1.207,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2015,TRUE,,,,,,,,,,,,,1.33,,,,,,1.333,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,RUS,Russian Federation,Year,2015,TRUE,,,,,,,,,,,,,2.4,,,,,,2.404,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,ITA,Italy,Year,2015,TRUE,,,,,,,,,,,,,2.59,,,,,,2.591,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AMR,Americas,Country,HND,Honduras,Year,2014,TRUE,,,,,,,,,,,,,0.66,,,,,,0.658,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",AMR,Americas,Country,HND,Honduras,Year,2014,TRUE,,,,,,,,,,,,,0.23,,,,,,0.234,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",AFR,Africa,Country,MRT,Mauritania,Year,2013,TRUE,,,,,,,,,,,,,0.072,,,,,,0.072,,,EN,2019-04-24T14:00:00.000Z
+"Psychiatrists working in mental health sector (per 100,000)",EUR,Europe,Country,BEL,Belgium,Year,2013,TRUE,,,,,,,,,,,,,20.06,,,,,,20.057,,,EN,2019-04-24T14:00:00.000Z
+"Social workers working in mental health sector (per 100,000)",EUR,Europe,Country,BEL,Belgium,Year,2013,TRUE,,,,,,,,,,,,,17.43,,,,,,17.435,,,EN,2019-04-24T14:00:00.000Z

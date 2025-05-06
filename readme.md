@@ -19,7 +19,7 @@ The goal of this project is to analyze global hypertension patterns across count
 
 ## Data Disclaimer
 
-> ⚠️ **Please note**: The population data used in this analysis is based on sources that are periodically updated by national authorities. 
+- **Please note**: The population data used in this analysis is based on sources that are periodically updated by national authorities. 
 
 ## Requirements
 

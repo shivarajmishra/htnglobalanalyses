@@ -8,7 +8,6 @@ This repository contains code, data, and documentation for analyzing global hype
 - `Programs/`: Scripts for data processing and analysis.
 - `Outputs/`: Generated plots, summary tables, and figures.
 - `Specs/`: Specifications and metadata related to the analyses.
-- `notebooks/`: Jupyter Notebooks detailing exploratory analyses.
 
 ## Purpose
 
